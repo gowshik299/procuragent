@@ -1,0 +1,10 @@
+python-telegram-bot==20.7
+nest-asyncio
+langchain-text-splitters
+pypdf
+sentence-transformers
+chromadb
+groq
+tavily-python
+pandas
+requests
